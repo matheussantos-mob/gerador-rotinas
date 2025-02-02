@@ -1,8 +1,5 @@
 # 📅 Gerador de Rotinas Diárias
 
-<!-- Ilustração do Projeto -->
-<img src="/public/favicon.ico" alt="Ilustração do Projeto" style="width:300%; max-width: 300px; display:block; margin: 20px auto;">
-
 O **Gerador de Rotinas Diárias** é uma aplicação web que ajuda os usuários a organizarem suas atividades diárias de forma eficiente. Com ele, é possível cadastrar atividades, definir sua duração e gerar uma rotina personalizada com horários específicos. Além disso, o sistema permite iniciar, pausar e continuar um timer para cada atividade, facilitando o acompanhamento em tempo real.
 
 ## 🛠 Tecnologias Usadas
