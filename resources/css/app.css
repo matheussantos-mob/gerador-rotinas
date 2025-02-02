@@ -1,0 +1,28 @@
+
+#relogio {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #333;
+    background-color: #f8f9fa;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+.iniciar-contagem {
+    margin-left: 5px;
+}
+
+#contagem-* {
+    font-weight: bold;
+    color: #28a745; /* Verde */
+    margin-left: 10px;
+}
+
+.btn-timer {
+    margin-left: 5px;
+}
+
+.btn-warning {
+    background-color: #ffc107; /* Amarelo para o botão "Pausar" */
+    border-color: #ffc107;
+}
